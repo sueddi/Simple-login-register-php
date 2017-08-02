@@ -1,0 +1,47 @@
+body{
+    padding: 10px 50px 50px 50px;
+}
+
+.pilkom-info{
+  font-family: calibri;
+  text-align: justify;
+}
+
+img{
+  width: 60px;
+  height: 13px;
+}
+
+.footer{
+  font-family: calibri;
+  padding-top: 50px;
+  text-align: center;
+}
+
+.nav{
+  font-size: 20px;
+}
+
+pre{
+  font-size: 15px;
+}
+
+.errMsg{
+  color: rgb(199, 14, 36);
+}
+
+.forgot{
+  font-family: calibri;
+}
+
+#h3{
+  font-family: arial;
+}
+
+#kel{
+  color: rgb(85, 158, 224);
+}
+
+hr{
+  color: rgb(15, 163, 227);
+}
